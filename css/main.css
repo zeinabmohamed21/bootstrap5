@@ -1,0 +1,97 @@
+.navbar{
+   background-color:#747264;
+    
+   z-index: 10;
+   width: 100%;
+}
+ 
+.second-btn{
+    width: 80px;
+}
+ .landing{
+      height: 575px;
+      
+     
+}
+.header-logo{
+    color: #FECDA6;
+    font-size: 25px;
+    margin-bottom: 8px;
+}
+/* //////////////////////////////////////////////////////////////////////////////////////////////////// */
+.hr-1 {
+    width: 120px;
+    height: 3px;
+    background-color:#4F6F52;
+    margin: auto;
+}
+.header-2 , .header-1 {
+    font-family: "Lora", serif;
+
+}
+ 
+.icon-1{
+    font-size: 40px;
+    color:#4F6F52;
+}
+.hr-2{
+    width: 100px;
+    height: 3px;
+    background-color:#FECDA6;
+    margin: auto;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////// */
+  .icon-2{
+    color:#4F6F52;
+    font-size: 22px;
+  }
+  /* //////////////////////////////////////////////////////////////////////////////////////////////// */
+.icon-3{
+    color :rgb(168, 167, 167);
+    font-size: 18px;   
+}
+/* /////////////////////////////////////////////////////////////////////////////////////// */
+.card-header{
+    font-family: "Lora", serif;
+    font-size: 15px;
+    text-transform: uppercase;
+}    
+/* ////////////////////////////////////////////////////////////////// */
+.projHead{
+    font-family: "Lora", serif;
+    color: white;   
+}
+.projP {
+    font-family: "Lora", serif;
+}
+.subscribeh{
+    font-family: "Lora", serif;
+    font-weight: 600;
+    color: white;
+}
+.subscribe input[type="text"]
+{
+    border: none;
+    border-bottom: 1px solid white;
+}
+.subscribe input[type="text"]:focus{
+    outline: none;
+}
+/* .subscribe  ::placeholder{
+    color: white;
+} */
+.subscribe ::placeholder{
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
